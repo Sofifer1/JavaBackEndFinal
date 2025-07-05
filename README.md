@@ -9,6 +9,9 @@ Lógica de negocio y API (Backend): procesamiento de datos, endpoints y respuest
 
 Comunicación entre ambas capas: cómo se integran y responden en tiempo real.
 https://www.loom.com/share/8fcbfa9b8e5542fd9f5b74d0fd046942?sid=9720d880-fbd4-4242-a3ab-2235dccb8113
+
+
+
 SQL DE LA BASE DE DATOS 
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
